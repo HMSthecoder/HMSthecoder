@@ -1,4 +1,4 @@
-# 👋 Hello, I'm HMS!
+# 👋 Hello, I'm Himanshu!
 
 🎓 I'm an Engineering student at **Xavier Institute of Engineering, Mumbai**, passionate about leveraging technology to solve real-world problems.\
 🔒 I specialize in **Cybersecurity**, **Blockchain Development**, and **Full Stack Web Development**.
